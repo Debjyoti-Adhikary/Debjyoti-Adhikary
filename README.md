@@ -3,7 +3,7 @@ A Ph.D. scholar with the aim of making AI much more transparent and interpretabl
 Currently, I'm focussing on Saliency based architecture with the same objective.
 <br><br>
 - I'm currently doing my PhD from the Indian Institute of Technology, Kharagpur, West Bengal, India. <br>
-- As of 2<sup>nd</sup> June 2021, my main areas of research interests are Deep Learning for Computer Vision based problems, Explainable and Interpretable AI. <br>
+- As of June 2024, my main areas of research interests are Deep Learning for Computer Vision based problems, Explainable and Interpretable AI. <br>
 - Apart from other interests which mainly includes sketching and listening to Jon Bellion. <br>
 - I'd be more than happy to collaborate in any conversations or projects in the above mentioned areas of interesets. <br>
 - Feel free to get in touch if you want to discuss anything in the field of AI. Would be happy to talk.<br>
